@@ -1,0 +1,27 @@
+{
+  "name": "b952",
+  "version": "1.0.0",
+  "description": "Homework B9.5.2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbakhmetiev/B.9.5.2.git"
+  },
+  "keywords": [
+    "skillfactory",
+    "homework"
+  ],
+  "author": "Mikhail Bakhmetiev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbakhmetiev/B.9.5.2/issues"
+  },
+  "homepage": "https://github.com/mbakhmetiev/B.9.5.2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
